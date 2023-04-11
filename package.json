@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rhwette/web_project_4.git"
+    "url": "git+https://github.com/rhwette/AroundTheUS.git"
   },
   "author": "rhw",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rhwette/web_project_4/issues"
+    "url": "https://github.com/rhwette/AroundTheUS/issues"
   },
-  "homepage": "https://github.com/rhwette/web_project_4#readme",
+  "homepage": "https://github.com/rhwette/AroundTheUS#readme",
   "devDependencies": {
     "@babel/core": "^7.18.2",
     "@babel/preset-env": "^7.18.2",
